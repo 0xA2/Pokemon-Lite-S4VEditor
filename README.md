@@ -16,7 +16,6 @@ Blog post about it: https://www.lostmyplaintext.com/project/2020/07/30/Reverse-E
 ### Notes 
 
 - Tested on Debian 10 using [DeSmuME  - DS Emulator](http://desmume.com/)
-
 ---------------
 
 ### Usage
