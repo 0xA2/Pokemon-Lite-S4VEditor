@@ -1,6 +1,8 @@
 # Pokemon-Lite-Saveditor
 Savefile editor for the NDS Pokemon 4th generation games 
+
 Tested only on Debian 10 using [DeSmuME  - DS Emulator](http://desmume.com/)
+
 Blog post about it: https://www.lostmyplaintext.com/project/2020/07/30/Reverse-Engineering-Pokemon-Save-Files
 
 ---------------
